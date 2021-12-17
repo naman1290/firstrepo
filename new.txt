@@ -1,1 +1,3 @@
 hi this is my first and new file git for the first trime from thre github.
+new line add after the git status for my second git
+
